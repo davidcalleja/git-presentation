@@ -1,7 +1,6 @@
-![alt text](resources/git_logo.png "Logo GIT")
+<img src="resources/git_logo.png" width="52%">
 
-# *__GIT__*
-##### 
+## Do push and go home
 
 ###### por David Calleja
 

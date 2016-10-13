@@ -1,4 +1,4 @@
-# Generated on 2016-06-15 using generator-reveal 0.5.9
+# Generated on 2016-10-13 using generator-reveal 0.5.9
 module.exports = (grunt) ->
 
     grunt.initConfig
@@ -36,7 +36,7 @@ module.exports = (grunt) ->
 
             livereload:
                 options:
-                    port: 9080
+                    port: 9000
                     # Change hostname to '0.0.0.0' to access
                     # the server from outside.
                     hostname: 'localhost'
