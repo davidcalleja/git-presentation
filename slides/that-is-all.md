@@ -1,0 +1,1 @@
+<section data-background="http://i.giphy.com/jYAGkoghdmD9S.gif">
